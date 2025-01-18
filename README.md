@@ -33,3 +33,5 @@ Run the `str_full_pipeline.ipynb` notebook to integrate the trained YOLOv11 and 
 ## Results
 
 The final output will visualize the results with bounding boxes around detected text regions and the recognized text printed on the image.
+
+![Result](results/output.png)
